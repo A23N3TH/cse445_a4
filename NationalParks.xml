@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://a23n3th.github.io/cse445_a4/NationalParks.xsd">
+<NationalParks xmlns="http://example.com/NationalParks"
+			   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			   xsi:schemaLocation="http://example.com/NationalParks NationalParks.xsd">
 
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
